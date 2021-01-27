@@ -2,7 +2,7 @@
 
 A simple HTTP server built with Ruby. It simply renders the `index.html` or other files in the directory.
 
-I have made a detailed explanation here:
+I have made a detailed explanation here: https://arnabsen.rocks/posts/building_server_from_scratch/
 
 ## How to run
 
